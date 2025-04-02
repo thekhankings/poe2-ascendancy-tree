@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Titan-0",
+    "name": "AncestralEmpowerment",
+    "description": [],
+    "position": {
+      "x": 24.15999959309896,
+      "y": 23.199999945504324
+    },
+    "connections": []
+  },
+  {
+    "id": "Titan-1",
+    "name": "ColossalCapacity",
+    "description": [],
+    "position": {
+      "x": 35.22666625976563,
+      "y": 59.62857273646763
+    },
+    "connections": []
+  },
+  {
+    "id": "Titan-2",
+    "name": "CrushingImpacts",
+    "description": [],
+    "position": {
+      "x": 54.02666625976562,
+      "y": 60.62857273646763
+    },
+    "connections": []
+  },
+  {
+    "id": "Titan-3",
+    "name": "Earthbreaker",
+    "description": [],
+    "position": {
+      "x": 43.893332926432294,
+      "y": 41.77142851693289
+    },
+    "connections": []
+  },
+  {
+    "id": "Titan-4",
+    "name": "HulkingForm",
+    "description": [],
+    "position": {
+      "x": 45.09333292643229,
+      "y": 53.48571559361049
+    },
+    "connections": []
+  },
+  {
+    "id": "Titan-5",
+    "name": "MysteriousLineage",
+    "description": [],
+    "position": {
+      "x": 52.95999959309896,
+      "y": 79.65714372907367
+    },
+    "connections": []
+  },
+  {
+    "id": "Titan-6",
+    "name": "StoneSkin",
+    "description": [],
+    "position": {
+      "x": 28.026666259765626,
+      "y": 33.199999945504324
+    },
+    "connections": []
+  },
+  {
+    "id": "Titan-7",
+    "name": "SurprisingStrenght",
+    "description": [],
+    "position": {
+      "x": 59.093332926432296,
+      "y": 88.0857151576451
+    },
+    "connections": []
+  }
+]

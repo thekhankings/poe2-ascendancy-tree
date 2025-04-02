@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Stormweaver-0",
+    "name": "ConstantGale",
+    "description": [],
+    "position": {
+      "x": 23.928931451612904,
+      "y": 34.82142857142857
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-1",
+    "name": "ForceOfWill",
+    "description": [],
+    "position": {
+      "x": 24,
+      "y": 64.85714285714286
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-2",
+    "name": "HeartOfTheStorm",
+    "description": [],
+    "position": {
+      "x": 25.2,
+      "y": 22.57142857142857
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-3",
+    "name": "HeavySnows",
+    "description": [],
+    "position": {
+      "x": 59.333333333333336,
+      "y": 29.428571428571427
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-4",
+    "name": "RainDancer",
+    "description": [],
+    "position": {
+      "x": 72.8,
+      "y": 64.85714285714286
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-5",
+    "name": "ScouringWinds",
+    "description": [],
+    "position": {
+      "x": 71.73333333333333,
+      "y": 22.428571428571427
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-6",
+    "name": "ShaperOfStorms",
+    "description": [],
+    "position": {
+      "x": 45.46666666666667,
+      "y": 31.71428571428571
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-7",
+    "name": "ShaperOfWinter",
+    "description": [],
+    "position": {
+      "x": 51.21177755376344,
+      "y": 31.685267857142858
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-8",
+    "name": "StrikeTwice",
+    "description": [],
+    "position": {
+      "x": 37.46666666666666,
+      "y": 29.428571428571427
+    },
+    "connections": []
+  },
+  {
+    "id": "Stormweaver-9",
+    "name": "TempestCaller",
+    "description": [],
+    "position": {
+      "x": 72.74445564516128,
+      "y": 34.83258928571429
+    },
+    "connections": []
+  }
+]

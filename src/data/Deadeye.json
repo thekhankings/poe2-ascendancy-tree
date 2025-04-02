@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Deadeye-0",
+    "name": "Avidity",
+    "description": [],
+    "position": {
+      "x": 77.04133064516128,
+      "y": 47.113839285714285
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-1",
+    "name": "CalledShots",
+    "description": [],
+    "position": {
+      "x": 52.55999959309896,
+      "y": 65.77142987932477
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-2",
+    "name": "EagleEyes",
+    "description": [],
+    "position": {
+      "x": 63.70967741935484,
+      "y": 44.685267857142854
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-3",
+    "name": "EndlessMunitions",
+    "description": [],
+    "position": {
+      "x": 53.681535618279575,
+      "y": 52.39955357142857
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-4",
+    "name": "FarShot",
+    "description": [],
+    "position": {
+      "x": 62.15999959309896,
+      "y": 60.62857164655413
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-5",
+    "name": "GatheringWinds",
+    "description": [],
+    "position": {
+      "x": 62.82666625976563,
+      "y": 74.05714416503906
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-6",
+    "name": "PointBlank",
+    "description": [],
+    "position": {
+      "x": 64.82666625976562,
+      "y": 56.200000217982705
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-7",
+    "name": "ProjectileProximitySpecialisation",
+    "description": [],
+    "position": {
+      "x": 65.35999959309896,
+      "y": 59.62857164655413
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-8",
+    "name": "ThrillingChase",
+    "description": [],
+    "position": {
+      "x": 74.42666625976562,
+      "y": 30.628571374075754
+    },
+    "connections": []
+  },
+  {
+    "id": "Deadeye-9",
+    "name": "WindWard",
+    "description": [],
+    "position": {
+      "x": 47.68775201612903,
+      "y": 78.34151785714286
+    },
+    "connections": []
+  }
+]

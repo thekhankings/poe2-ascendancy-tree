@@ -1,0 +1,162 @@
+[
+  {
+    "id": "Ritualist-0",
+    "name": "AsTheWhispersAsk",
+    "description": [],
+    "position": {
+      "x": 75.75999959309895,
+      "y": 43.342857360839844
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-1",
+    "name": "AsTheWhispersDemand",
+    "description": [],
+    "position": {
+      "x": 61.64734543010753,
+      "y": 32.84375
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-2",
+    "name": "Attributes",
+    "description": [],
+    "position": {
+      "x": 25.75999959309896,
+      "y": 66.34285845075335
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-3",
+    "name": "CharmCharges",
+    "description": [],
+    "position": {
+      "x": 74.48966733870968,
+      "y": 54.81919642857142
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-4",
+    "name": "CorruptedLifeforce",
+    "description": [],
+    "position": {
+      "x": 70.91523857526882,
+      "y": 26.412946428571427
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-5",
+    "name": "IntricateSigils",
+    "description": [],
+    "position": {
+      "x": 68.53788642473118,
+      "y": 47.785714285714285
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-6",
+    "name": "LifeRecoveryRate",
+    "description": [],
+    "position": {
+      "x": 69.71606182795699,
+      "y": 58.65401785714286
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-7",
+    "name": "MindPhylacteries",
+    "description": [],
+    "position": {
+      "x": 54.15999959309896,
+      "y": 42.48571450369699
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-8",
+    "name": "MovementSpeed",
+    "description": [],
+    "position": {
+      "x": 79.44598454301075,
+      "y": 53.154017857142854
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-9",
+    "name": "MysticAttunement",
+    "description": [],
+    "position": {
+      "x": 15.359999593098959,
+      "y": 56.62857273646763
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-10",
+    "name": "PhysicalDamage",
+    "description": [],
+    "position": {
+      "x": 83.22666625976562,
+      "y": 41.48571450369698
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-11",
+    "name": "ReducedMana",
+    "description": [],
+    "position": {
+      "x": 60.426666259765625,
+      "y": 75.91428702218191
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-12",
+    "name": "ReducedResistances",
+    "description": [],
+    "position": {
+      "x": 60.380964381720425,
+      "y": 61.15848214285714
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-13",
+    "name": "ReducedSpirit",
+    "description": [],
+    "position": {
+      "x": 60.42296706989247,
+      "y": 68.30357142857143
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-14",
+    "name": "UnfurledFinger",
+    "description": [],
+    "position": {
+      "x": 40.55999959309896,
+      "y": 68.48571559361048
+    },
+    "connections": []
+  },
+  {
+    "id": "Ritualist-15",
+    "name": "WildwoodPersistence",
+    "description": [],
+    "position": {
+      "x": 60.026666259765626,
+      "y": 54.62857164655412
+    },
+    "connections": []
+  }
+]

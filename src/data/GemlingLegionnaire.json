@@ -1,0 +1,82 @@
+[
+  {
+    "id": "GemlingLegionnaire-0",
+    "name": "AdaptiveCapability",
+    "description": [],
+    "position": {
+      "x": 68.13333333333334,
+      "y": 68.42857142857143
+    },
+    "connections": []
+  },
+  {
+    "id": "GemlingLegionnaire-1",
+    "name": "AdvancedThaumaturgy",
+    "description": [],
+    "position": {
+      "x": 24.666666666666668,
+      "y": 34.42857142857143
+    },
+    "connections": []
+  },
+  {
+    "id": "GemlingLegionnaire-2",
+    "name": "CrystallinePotential",
+    "description": [],
+    "position": {
+      "x": 31.6,
+      "y": 61.857142857142854
+    },
+    "connections": []
+  },
+  {
+    "id": "GemlingLegionnaire-3",
+    "name": "EnhancedEffectiveness",
+    "description": [],
+    "position": {
+      "x": 75.06666666666668,
+      "y": 40.714285714285715
+    },
+    "connections": []
+  },
+  {
+    "id": "GemlingLegionnaire-4",
+    "name": "GemStudded",
+    "description": [],
+    "position": {
+      "x": 59.06666666666667,
+      "y": 41.14285714285714
+    },
+    "connections": []
+  },
+  {
+    "id": "GemlingLegionnaire-5",
+    "name": "ImplantedGems",
+    "description": [],
+    "position": {
+      "x": 19.066666666666666,
+      "y": 45.714285714285715
+    },
+    "connections": []
+  },
+  {
+    "id": "GemlingLegionnaire-6",
+    "name": "IntegratedEfficency",
+    "description": [],
+    "position": {
+      "x": 62.133333333333326,
+      "y": 62
+    },
+    "connections": []
+  },
+  {
+    "id": "GemlingLegionnaire-7",
+    "name": "ThaumaturgicalInfusion",
+    "description": [],
+    "position": {
+      "x": 69.06666666666666,
+      "y": 34.42857142857143
+    },
+    "connections": []
+  }
+]

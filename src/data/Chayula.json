@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Chayula-0",
+    "name": "ChayulasGift",
+    "description": [],
+    "position": {
+      "x": 60.49017137096774,
+      "y": 20.645089285714285
+    },
+    "connections": []
+  },
+  {
+    "id": "Chayula-1",
+    "name": "ConsumingQuestions",
+    "description": [],
+    "position": {
+      "x": 38.344254032258064,
+      "y": 13.933035714285714
+    },
+    "connections": []
+  },
+  {
+    "id": "Chayula-2",
+    "name": "EmbraceTheDarkness",
+    "description": [],
+    "position": {
+      "x": 83.53494623655914,
+      "y": 64.50669642857143
+    },
+    "connections": []
+  },
+  {
+    "id": "Chayula-3",
+    "name": "GraspOfTheVoid",
+    "description": [],
+    "position": {
+      "x": 74.42666625976562,
+      "y": 67.65714372907367
+    },
+    "connections": []
+  },
+  {
+    "id": "Chayula-4",
+    "name": "InnerSilence",
+    "description": [],
+    "position": {
+      "x": 62.69333292643229,
+      "y": 85.8000008719308
+    },
+    "connections": []
+  },
+  {
+    "id": "Chayula-5",
+    "name": "LucidDreaming",
+    "description": [],
+    "position": {
+      "x": 63.31485215053764,
+      "y": 63.27232142857143
+    },
+    "connections": []
+  },
+  {
+    "id": "Chayula-6",
+    "name": "RavenousDoubts",
+    "description": [],
+    "position": {
+      "x": 62.959999593098956,
+      "y": 13.771428244454519
+    },
+    "connections": []
+  },
+  {
+    "id": "Chayula-7",
+    "name": "RealityRending",
+    "description": [],
+    "position": {
+      "x": 53.700436827956985,
+      "y": 31.127232142857142
+    },
+    "connections": []
+  },
+  {
+    "id": "Chayula-8",
+    "name": "WalkingDream",
+    "description": [],
+    "position": {
+      "x": 68.24806787634408,
+      "y": 46.700892857142854
+    },
+    "connections": []
+  }
+]

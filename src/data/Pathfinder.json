@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Pathfinder-0",
+    "name": "BleedingConcoction",
+    "description": [],
+    "position": {
+      "x": 68.02666625976562,
+      "y": 40.628571374075754
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-1",
+    "name": "BrewConcoction",
+    "description": [],
+    "position": {
+      "x": 65.1335685483871,
+      "y": 38.97098214285714
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-2",
+    "name": "ConnectedChemistry",
+    "description": [],
+    "position": {
+      "x": 84.2741935483871,
+      "y": 53.82812500000001
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-3",
+    "name": "ContagiousContamination",
+    "description": [],
+    "position": {
+      "x": 70.48261088709677,
+      "y": 53.68526785714286
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-4",
+    "name": "EnduringElixirs",
+    "description": [],
+    "position": {
+      "x": 79.62666625976563,
+      "y": 34.77142851693289
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-5",
+    "name": "ExplosiveConcoction",
+    "description": [],
+    "position": {
+      "x": 68.02666625976562,
+      "y": 37.199999945504324
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-6",
+    "name": "FulminatingConcoction",
+    "description": [],
+    "position": {
+      "x": 62.426666259765625,
+      "y": 37.34285708836147
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-7",
+    "name": "OverwhekmingToxicity",
+    "description": [],
+    "position": {
+      "x": 75.26881720430107,
+      "y": 35.05580357142858
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-8",
+    "name": "PoisonousConcoction",
+    "description": [],
+    "position": {
+      "x": 62.293332926432285,
+      "y": 40.628571374075754
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-9",
+    "name": "RelentlessPursuit",
+    "description": [],
+    "position": {
+      "x": 19.09333292643229,
+      "y": 68.77142987932477
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-10",
+    "name": "RunningAssault",
+    "description": [],
+    "position": {
+      "x": 49.359999593098955,
+      "y": 87.34285845075334
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-11",
+    "name": "ShatteringConcoction",
+    "description": [],
+    "position": {
+      "x": 65.0933329264323,
+      "y": 35.485714231218616
+    },
+    "connections": []
+  },
+  {
+    "id": "Pathfinder-12",
+    "name": "TravellersWisdom",
+    "description": [],
+    "position": {
+      "x": 35.09333292643229,
+      "y": 76.34285845075335
+    },
+    "connections": []
+  }
+]

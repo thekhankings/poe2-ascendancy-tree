@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Invoker-0",
+    "name": "AndIShallRage",
+    "description": [],
+    "position": {
+      "x": 60.959999593098956,
+      "y": 44.628571374075754
+    },
+    "connections": []
+  },
+  {
+    "id": "Invoker-1",
+    "name": "AndProtectMeFromHarm",
+    "description": [],
+    "position": {
+      "x": 44.703461021505376,
+      "y": 10.828125
+    },
+    "connections": []
+  },
+  {
+    "id": "Invoker-2",
+    "name": "AndScatterThemToTheWinds",
+    "description": [],
+    "position": {
+      "x": 80.41624663978494,
+      "y": 76.79241071428572
+    },
+    "connections": []
+  },
+  {
+    "id": "Invoker-3",
+    "name": "FaithIsAChoice",
+    "description": [],
+    "position": {
+      "x": 66.42666625976562,
+      "y": 28.91428565979004
+    },
+    "connections": []
+  },
+  {
+    "id": "Invoker-4",
+    "name": "IAmBlizzard",
+    "description": [],
+    "position": {
+      "x": 66.02666625976562,
+      "y": 35.77142851693289
+    },
+    "connections": []
+  },
+  {
+    "id": "Invoker-5",
+    "name": "IAmTheThunder",
+    "description": [],
+    "position": {
+      "x": 70.69333292643229,
+      "y": 44.628571374075754
+    },
+    "connections": []
+  },
+  {
+    "id": "Invoker-6",
+    "name": "LeadMeThroughGrace",
+    "description": [],
+    "position": {
+      "x": 60.82666625976563,
+      "y": 10.628571374075753
+    },
+    "connections": []
+  },
+  {
+    "id": "Invoker-7",
+    "name": "SunderMyEnemies",
+    "description": [],
+    "position": {
+      "x": 88.55999959309896,
+      "y": 61.91428565979004
+    },
+    "connections": []
+  },
+  {
+    "id": "Invoker-8",
+    "name": "TheSoulSpringsEternal",
+    "description": [],
+    "position": {
+      "x": 76.42666625976562,
+      "y": 47.62857164655413
+    },
+    "connections": []
+  }
+]

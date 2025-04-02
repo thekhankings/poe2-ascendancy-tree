@@ -1,0 +1,222 @@
+[
+  {
+    "id": "Smith Of Kitava-0",
+    "name": "AgainstTheAnvil",
+    "description": [],
+    "position": {
+      "x": 25.75999959309896,
+      "y": 39.771428789411274
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-1",
+    "name": "CoalStoker",
+    "description": [],
+    "position": {
+      "x": 20.293332926432292,
+      "y": 29.657142911638534
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-2",
+    "name": "DedicationToKitava",
+    "description": [],
+    "position": {
+      "x": 67.49333292643229,
+      "y": 70.08571515764508
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-3",
+    "name": "FireDamage",
+    "description": [],
+    "position": {
+      "x": 14.703040994623656,
+      "y": 50.11383928571429
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-4",
+    "name": "FireResistance",
+    "description": [],
+    "position": {
+      "x": 19.99957997311828,
+      "y": 49.828125
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-5",
+    "name": "FlowingMetal",
+    "description": [],
+    "position": {
+      "x": 65.62666625976561,
+      "y": 74.37142944335938
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-6",
+    "name": "ForgedInFlame",
+    "description": [],
+    "position": {
+      "x": 36.504536290322584,
+      "y": 39.627232142857146
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-7",
+    "name": "HeatOfTheForge",
+    "description": [],
+    "position": {
+      "x": 14.693332926432292,
+      "y": 39.62857164655413
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-8",
+    "name": "Heatproofing",
+    "description": [],
+    "position": {
+      "x": 63.35999959309896,
+      "y": 78.51428658621651
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-9",
+    "name": "HeavyBracing",
+    "description": [],
+    "position": {
+      "x": 60.10164650537635,
+      "y": 82.21428571428572
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-10",
+    "name": "InternalLayer",
+    "description": [],
+    "position": {
+      "x": 56.264700940860216,
+      "y": 84.44196428571429
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-11",
+    "name": "KitavanEngraving",
+    "description": [],
+    "position": {
+      "x": 51.75999959309896,
+      "y": 85.8000008719308
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-12",
+    "name": "LeadLining",
+    "description": [],
+    "position": {
+      "x": 47.22666625976563,
+      "y": 85.65714372907365
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-13",
+    "name": "LeatherBindings",
+    "description": [],
+    "position": {
+      "x": 42.55999959309896,
+      "y": 84.51428658621651
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-14",
+    "name": "LivingWeapon",
+    "description": [],
+    "position": {
+      "x": 31.226666259765622,
+      "y": 39.771428789411274
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-15",
+    "name": "MeleeDamage",
+    "description": [],
+    "position": {
+      "x": 25.428427419354836,
+      "y": 49.941964285714285
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-16",
+    "name": "MinionDamage",
+    "description": [],
+    "position": {
+      "x": 31.128192204301076,
+      "y": 49.941964285714285
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-17",
+    "name": "MoltenSymbol",
+    "description": [],
+    "position": {
+      "x": 38.69333292643229,
+      "y": 82.08571515764508
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-18",
+    "name": "PaddedPlates",
+    "description": [],
+    "position": {
+      "x": 34.85173051075269,
+      "y": 78.66517857142857
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-19",
+    "name": "SmithsMasterwork",
+    "description": [],
+    "position": {
+      "x": 49.30065524193548,
+      "y": 67.37053571428572
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-20",
+    "name": "SupportStraps",
+    "description": [],
+    "position": {
+      "x": 31.182795698924732,
+      "y": 70.02678571428571
+    },
+    "connections": []
+  },
+  {
+    "id": "Smith Of Kitava-21",
+    "name": "TantalumAlloy",
+    "description": [],
+    "position": {
+      "x": 32.713793682795696,
+      "y": 74.45535714285715
+    },
+    "connections": []
+  }
+]

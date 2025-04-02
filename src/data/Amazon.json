@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Amazon-0",
+    "name": "Accuracy",
+    "description": [],
+    "position": {
+      "x": 58.765961021505376,
+      "y": 67.55803571428571
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-1",
+    "name": "AzmeriBrew",
+    "description": [],
+    "position": {
+      "x": 81.0933329264323,
+      "y": 43.91428593226841
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-2",
+    "name": "CriticalStrike",
+    "description": [],
+    "position": {
+      "x": 49.62666625976562,
+      "y": 67.62857273646763
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-3",
+    "name": "ElementalInfusion",
+    "description": [],
+    "position": {
+      "x": 53.38751680107527,
+      "y": 51.98437500000001
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-4",
+    "name": "Evasion1",
+    "description": [],
+    "position": {
+      "x": 78.55999959309896,
+      "y": 60.2000002179827
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-5",
+    "name": "Evasion2",
+    "description": [],
+    "position": {
+      "x": 61.40582997311827,
+      "y": 56.92633928571429
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-6",
+    "name": "FlaskRecovery",
+    "description": [],
+    "position": {
+      "x": 85.0933329264323,
+      "y": 53.48571450369699
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-7",
+    "name": "InForTheKill",
+    "description": [],
+    "position": {
+      "x": 15.759999593098959,
+      "y": 49.62857273646763
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-8",
+    "name": "InfusedAvatar",
+    "description": [],
+    "position": {
+      "x": 26.15999959309896,
+      "y": 48.77142987932478
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-9",
+    "name": "LifeLeech",
+    "description": [],
+    "position": {
+      "x": 71.62666625976563,
+      "y": 53.62857273646764
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-10",
+    "name": "MysticHarvest",
+    "description": [],
+    "position": {
+      "x": 76.29333292643229,
+      "y": 44.05714307512556
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-11",
+    "name": "Penetrate",
+    "description": [],
+    "position": {
+      "x": 24.293332926432292,
+      "y": 56.20000130789621
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-12",
+    "name": "PredatoryInstinct",
+    "description": [],
+    "position": {
+      "x": 44.826666259765624,
+      "y": 57.914287022181924
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-13",
+    "name": "SkillSpeed",
+    "description": [],
+    "position": {
+      "x": 30.42666625976562,
+      "y": 53.77142987932477
+    },
+    "connections": []
+  },
+  {
+    "id": "Amazon-14",
+    "name": "StalkingPanther",
+    "description": [],
+    "position": {
+      "x": 78.69333292643229,
+      "y": 53.48571450369699
+    },
+    "connections": []
+  }
+]

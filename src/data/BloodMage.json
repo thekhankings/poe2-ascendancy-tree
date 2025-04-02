@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Blood mage-0",
+    "name": "BloodBarbs",
+    "description": [],
+    "position": {
+      "x": 41.09333292643229,
+      "y": 33.199999945504324
+    },
+    "connections": []
+  },
+  {
+    "id": "Blood mage-1",
+    "name": "CrimsonPower",
+    "description": [],
+    "position": {
+      "x": 56.426666259765625,
+      "y": 62.2000002179827
+    },
+    "connections": []
+  },
+  {
+    "id": "Blood mage-2",
+    "name": "GoreSpike",
+    "description": [],
+    "position": {
+      "x": 23.655913978494624,
+      "y": 36.542410714285715
+    },
+    "connections": []
+  },
+  {
+    "id": "Blood mage-3",
+    "name": "GraspingWounds",
+    "description": [],
+    "position": {
+      "x": 76.42666625976562,
+      "y": 36.34285708836147
+    },
+    "connections": []
+  },
+  {
+    "id": "Blood mage-4",
+    "name": "OpenSores",
+    "description": [],
+    "position": {
+      "x": 64.42666625976562,
+      "y": 30.914285659790043
+    },
+    "connections": []
+  },
+  {
+    "id": "Blood mage-5",
+    "name": "Sanguimancy",
+    "description": [],
+    "position": {
+      "x": 49.893332926432294,
+      "y": 25.48571423121861
+    },
+    "connections": []
+  },
+  {
+    "id": "Blood mage-6",
+    "name": "SunderTheFlesh",
+    "description": [],
+    "position": {
+      "x": 43.359999593098955,
+      "y": 62.05714307512555
+    },
+    "connections": []
+  },
+  {
+    "id": "Blood mage-7",
+    "name": "VitalitySiphon",
+    "description": [],
+    "position": {
+      "x": 35.131048387096776,
+      "y": 31.075892857142858
+    },
+    "connections": []
+  }
+]

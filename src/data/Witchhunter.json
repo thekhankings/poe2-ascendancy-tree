@@ -1,0 +1,82 @@
+[
+    {
+      "id": "Witchhunter-0",
+      "name": "CeremonialAblution",
+      "description": [],
+      "position": {
+        "x": 67.49831989247312,
+        "y": 51.68526785714286
+      },
+      "connections": []
+    },
+    {
+      "id": "Witchhunter-1",
+      "name": "JudgeJuryAndExecutioner",
+      "description": [],
+      "position": {
+        "x": 36.90776209677419,
+        "y": 51.68526785714286
+      },
+      "connections": []
+    },
+    {
+      "id": "Witchhunter-2",
+      "name": "NoMercy",
+      "description": [],
+      "position": {
+        "x": 52.284946236559136,
+        "y": 51.11383928571429
+      },
+      "connections": []
+    },
+    {
+      "id": "Witchhunter-3",
+      "name": "ObsessiveRituals",
+      "description": [],
+      "position": {
+        "x": 67.39121303763442,
+        "y": 68.25669642857143
+      },
+      "connections": []
+    },
+    {
+      "id": "Witchhunter-4",
+      "name": "PitlessKiller",
+      "description": [],
+      "position": {
+        "x": 36.93506384408602,
+        "y": 67.97098214285714
+      },
+      "connections": []
+    },
+    {
+      "id": "Witchhunter-5",
+      "name": "WeaponMaster",
+      "description": [],
+      "position": {
+        "x": 21.339465725806452,
+        "y": 56.03571428571429
+      },
+      "connections": []
+    },
+    {
+      "id": "Witchhunter-6",
+      "name": "Witchbane",
+      "description": [],
+      "position": {
+        "x": 52.09593413978495,
+        "y": 68.484375
+      },
+      "connections": []
+    },
+    {
+      "id": "Witchhunter-7",
+      "name": "ZealousInquisition",
+      "description": [],
+      "position": {
+        "x": 83.1989247311828,
+        "y": 56.05580357142858
+      },
+      "connections": []
+    }
+  ]

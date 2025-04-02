@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Tactician-0",
+    "name": "ASolidPlan",
+    "description": [],
+    "position": {
+      "x": 32,
+      "y": 69.35714285714286
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-1",
+    "name": "ArmorAndEvasion",
+    "description": [],
+    "position": {
+      "x": 53.733333333333334,
+      "y": 51.28571428571429
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-2",
+    "name": "BannerArea",
+    "description": [],
+    "position": {
+      "x": 34.66666666666667,
+      "y": 58.214285714285715
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-3",
+    "name": "CannonsReady",
+    "description": [],
+    "position": {
+      "x": 68.93333333333334,
+      "y": 77.92857142857143
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-4",
+    "name": "MinionDamage",
+    "description": [],
+    "position": {
+      "x": 57.733333333333334,
+      "y": 75.92857142857142
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-5",
+    "name": "PinBuildup",
+    "description": [],
+    "position": {
+      "x": 42,
+      "y": 51.214285714285715
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-6",
+    "name": "PolishThatGear",
+    "description": [],
+    "position": {
+      "x": 53.733333333333334,
+      "y": 62.92857142857143
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-7",
+    "name": "RightWereWeWantThem",
+    "description": [],
+    "position": {
+      "x": 41.86666666666667,
+      "y": 39.64285714285714
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-8",
+    "name": "Spirit",
+    "description": [],
+    "position": {
+      "x": 38,
+      "y": 75.92857142857142
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-9",
+    "name": "StayLightUseCover",
+    "description": [],
+    "position": {
+      "x": 53.86666666666666,
+      "y": 39.57142857142858
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-10",
+    "name": "SuppressingFire",
+    "description": [],
+    "position": {
+      "x": 42,
+      "y": 63.07142857142857
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-11",
+    "name": "TotemDamage",
+    "description": [],
+    "position": {
+      "x": 61.33333333333333,
+      "y": 82.64285714285714
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-12",
+    "name": "UnleashHell",
+    "description": [],
+    "position": {
+      "x": 65.33333333333333,
+      "y": 71.21428571428572
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-13",
+    "name": "WatchHowIDoIt",
+    "description": [],
+    "position": {
+      "x": 21.020245295698924,
+      "y": 49.28571428571429
+    },
+    "connections": []
+  },
+  {
+    "id": "Tactician-14",
+    "name": "WhieverPaysBest",
+    "description": [],
+    "position": {
+      "x": 29.2,
+      "y": 47.92857142857142
+    },
+    "connections": []
+  }
+]

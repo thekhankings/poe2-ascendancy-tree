@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Infernalist-0",
+    "name": "AlteredFlesh",
+    "description": [],
+    "position": {
+      "x": 24.69333292643229,
+      "y": 34.057142802647185
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-1",
+    "name": "BeidatsGaze",
+    "description": [],
+    "position": {
+      "x": 16.426666259765625,
+      "y": 62.628571646554136
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-2",
+    "name": "BeidatsHand",
+    "description": [],
+    "position": {
+      "x": 32.826666259765624,
+      "y": 54.48571450369699
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-3",
+    "name": "BeidatsWill",
+    "description": [],
+    "position": {
+      "x": 24.69333292643229,
+      "y": 65.05714307512555
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-4",
+    "name": "BringerOfFlame",
+    "description": [],
+    "position": {
+      "x": 41.90818212365591,
+      "y": 30.54241071428571
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-5",
+    "name": "DemonicPossession",
+    "description": [],
+    "position": {
+      "x": 35.359999593098955,
+      "y": 22.771428516932897
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-6",
+    "name": "GrinningImmolation",
+    "description": [],
+    "position": {
+      "x": 67.75999959309897,
+      "y": 16.771428516932897
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-7",
+    "name": "LoyalHellhound",
+    "description": [],
+    "position": {
+      "x": 66.42725134408603,
+      "y": 24.120535714285715
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-8",
+    "name": "MasteredDarkness",
+    "description": [],
+    "position": {
+      "x": 30.293332926432292,
+      "y": 37.48571423121861
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-9",
+    "name": "PyromanticPact",
+    "description": [],
+    "position": {
+      "x": 55.680863575268816,
+      "y": 26.25892857142857
+    },
+    "connections": []
+  },
+  {
+    "id": "Infernalist-10",
+    "name": "SeethingBody",
+    "description": [],
+    "position": {
+      "x": 65.35999959309896,
+      "y": 37.34285708836147
+    },
+    "connections": []
+  }
+]

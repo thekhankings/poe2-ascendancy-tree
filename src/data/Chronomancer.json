@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Chronomancer-0",
+    "name": "ApexOfTheMoment",
+    "description": [],
+    "position": {
+      "x": 60.15999959309896,
+      "y": 24.657142911638534
+    },
+    "connections": []
+  },
+  {
+    "id": "Chronomancer-1",
+    "name": "CircularHeartbeat",
+    "description": [],
+    "position": {
+      "x": 45.22666625976562,
+      "y": 22.94285719735282
+    },
+    "connections": []
+  },
+  {
+    "id": "Chronomancer-2",
+    "name": "FootprintsInTheSand",
+    "description": [],
+    "position": {
+      "x": 44.426666259765625,
+      "y": 43.514286041259766
+    },
+    "connections": []
+  },
+  {
+    "id": "Chronomancer-3",
+    "name": "NowAndAgain",
+    "description": [],
+    "position": {
+      "x": 54.084761424731184,
+      "y": 43.542410714285715
+    },
+    "connections": []
+  },
+  {
+    "id": "Chronomancer-4",
+    "name": "QuicksandHourglass",
+    "description": [],
+    "position": {
+      "x": 38.959999593098956,
+      "y": 24.657142911638534
+    },
+    "connections": []
+  },
+  {
+    "id": "Chronomancer-5",
+    "name": "TheRapidRiver",
+    "description": [],
+    "position": {
+      "x": 53.893332926432294,
+      "y": 22.800000054495676
+    },
+    "connections": []
+  },
+  {
+    "id": "Chronomancer-6",
+    "name": "UltimateCommand",
+    "description": [],
+    "position": {
+      "x": 46.026666259765626,
+      "y": 75.37142944335938
+    },
+    "connections": []
+  },
+  {
+    "id": "Chronomancer-7",
+    "name": "UnboundEncore",
+    "description": [],
+    "position": {
+      "x": 53.22666625976562,
+      "y": 75.22857230050222
+    },
+    "connections": []
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "Lich-0",
+    "name": "BlackenedHeart",
+    "description": [],
+    "position": {
+      "x": 21.759999593098957,
+      "y": 61.48571450369699
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-1",
+    "name": "CrystallinePhylactery",
+    "description": [],
+    "position": {
+      "x": 48.15999959309896,
+      "y": 27.485714231218612
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-2",
+    "name": "CursedArea",
+    "description": [],
+    "position": {
+      "x": 20.42800739247312,
+      "y": 45.988839285714285
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-3",
+    "name": "DominionOverFlesh",
+    "description": [],
+    "position": {
+      "x": 14.159999593098958,
+      "y": 57.62857164655413
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-4",
+    "name": "EldritchEmpowerment",
+    "description": [],
+    "position": {
+      "x": 29.49333292643229,
+      "y": 40.62857164655413
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-5",
+    "name": "EnergyShield",
+    "description": [],
+    "position": {
+      "x": 38.573168682795696,
+      "y": 27.58258928571429
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-6",
+    "name": "EnergyShieldIfConsumedPowerCharge",
+    "description": [],
+    "position": {
+      "x": 59.893332926432294,
+      "y": 22.228571483067103
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-7",
+    "name": "EternalLife",
+    "description": [],
+    "position": {
+      "x": 82.07325268817203,
+      "y": 57.64508928571429
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-8",
+    "name": "Life",
+    "description": [],
+    "position": {
+      "x": 81.62666625976563,
+      "y": 41.48571450369698
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-9",
+    "name": "Mana",
+    "description": [],
+    "position": {
+      "x": 14.690440188172044,
+      "y": 41.645089285714285
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-10",
+    "name": "NecromanticConduit",
+    "description": [],
+    "position": {
+      "x": 21.759999593098957,
+      "y": 27.199999945504327
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-11",
+    "name": "PriceOfPower",
+    "description": [],
+    "position": {
+      "x": 69.62666625976563,
+      "y": 31.771428516932897
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-12",
+    "name": "RuptureTheSoul",
+    "description": [],
+    "position": {
+      "x": 26.559999593098958,
+      "y": 31.485714503696986
+    },
+    "connections": []
+  },
+  {
+    "id": "Lich-13",
+    "name": "SoullessForm",
+    "description": [],
+    "position": {
+      "x": 74.55999959309895,
+      "y": 27.342857088361466
+    },
+    "connections": []
+  }
+]
