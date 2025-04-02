@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "homepage": "https://thekhankings.github.io/poe2-ascendancy-tree",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
