@@ -58,11 +58,16 @@ export const SkillTree: React.FC<SkillTreeProps> = ({ subClass }) => {
   };
 
   return (
-<div className="relative w-full max-w-[750px] h-auto md:h-[700px] bg-cover bg-center rounded-lg border border-slate-800 overflow-visible"
-  style={{ backgroundImage: `url(${backgroundImages[subClass.name]})` }}>
-
-      <div className="absolute inset-0 bg-black/10 rounded-lg" />
-
+    <div
+      className="relative w-full max-w-[750px] mx-auto my-4"
+      style={{
+        aspectRatio: "750/700",
+        backgroundImage: `url(${backgroundImages[subClass.name]})`,
+        backgroundSize: "cover",
+        backgroundPosition: "center"
+      }}
+    >
+      <div className="absolute inset-0 bg-black/10 rounded-lg border border-slate-800"></div>
       <div className="relative z-10 w-full h-full">
         <h2 className="text-2xl font-bold text-amber-500 absolute top-4 left-4">
           {subClass.name}

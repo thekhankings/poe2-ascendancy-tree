@@ -27,33 +27,30 @@ export const DragNodeEditor: React.FC<DragNodeEditorProps> = ({ background, node
     if (!container) return;
 
     const rect = container.getBoundingClientRect();
-const offsetX = e.clientX - rect.left;
-const offsetY = e.clientY - rect.top;
-
-// Adjust for the center of the button (assuming width = height)
-
-const x = ((offsetX) / rect.width) * 100;
-const y = ((offsetY) / rect.height) * 100;
-
-
+    const offsetX = e.clientX - rect.left;
+    const offsetY = e.clientY - rect.top;
+    const x = (offsetX / rect.width) * 100;
+    const y = (offsetY / rect.height) * 100;
     setLocalNodes((prev) =>
       prev.map((n) => (n.id === id ? { ...n, position: { x, y } } : n))
     );
   };
 
+  const baseSize = 24; // smaller node buttons
   return (
-<div
-  className="relative w-full max-w-[750px] h-auto md:h-[700px] bg-cover bg-center rounded-lg border border-slate-800 overflow-visible"
-  style={{ backgroundImage: `url(${background})` }}
->
-
-
+    <div
+      className="relative w-full max-w-[750px] mx-auto my-4"
+      style={{
+        aspectRatio: "750/700",
+        backgroundImage: `url(${background})`,
+        backgroundSize: "cover",
+        backgroundPosition: "center"
+      }}
+    >
       {localNodes.map((node) => {
-        const baseSize = 24; // smaller node buttons
         const width = imageSizes[node.id] || baseSize;
         const scale = Math.min(1.5, Math.max(0.8, baseSize / width));
         const size = baseSize * scale;
-
         return (
           <div
             key={node.id}

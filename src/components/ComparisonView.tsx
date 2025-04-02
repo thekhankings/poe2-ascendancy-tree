@@ -12,9 +12,8 @@ export const ComparisonView: React.FC<ComparisonViewProps> = ({ leftClass }) => 
   const [editMode, setEditMode] = useState(false);
 
   return (
-    <div className="flex justify-center items-center min-h-screen">
-      <div className="relative w-full max-w-[750px] h-auto md:h-[700px] bg-slate-900/50 rounded-lg border border-slate-800 overflow-hidden">
-
+    <div className="flex flex-col md:justify-center md:items-center items-start min-h-screen overflow-auto px-4">
+      <div className="relative w-full max-w-[750px] h-[70vh] md:h-[700px] bg-slate-900/50 rounded-lg border border-slate-800 overflow-hidden mx-auto my-4">
         <div className="absolute inset-0 w-full h-full">
           {leftClass ? (
             editMode ? (
