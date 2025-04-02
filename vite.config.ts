@@ -1,10 +1,9 @@
-// vite.config.ts
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
 
 export default defineConfig({
-  plugins: [react()],
+  base: './',  // Ensure relative paths for assets
   build: {
-    outDir: 'build',  // This specifies the output directory (default is 'dist')
+    outDir: 'dist',  // This is the output folder for the build
+    assetsDir: 'assets',  // Folder for static assets
   },
-})
+});

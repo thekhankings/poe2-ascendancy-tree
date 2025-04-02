@@ -13,15 +13,7 @@ export const ComparisonView: React.FC<ComparisonViewProps> = ({ leftClass }) => 
 
   return (
     <div className="flex justify-center items-center min-h-screen">
-      <div className="relative w-[750px] h-[700px] bg-slate-900/50 rounded-lg border border-slate-800 overflow-hidden">
-        {leftClass && (
-          <button
-            className="absolute top-2 right-2 bg-amber-600 hover:bg-amber-500 text-white text-sm px-3 py-1 rounded z-20"
-            onClick={() => setEditMode(!editMode)}
-          >
-            {editMode ? 'View Mode' : 'Edit Mode'}
-          </button>
-        )}
+      <div className="relative w-full max-w-[750px] h-auto md:h-[700px] bg-slate-900/50 rounded-lg border border-slate-800 overflow-hidden">
 
         <div className="absolute inset-0 w-full h-full">
           {leftClass ? (

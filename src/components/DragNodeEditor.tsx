@@ -42,10 +42,11 @@ const y = ((offsetY) / rect.height) * 100;
   };
 
   return (
-    <div
-  className="relative w-[750px] h-[700px] bg-cover bg-center rounded-lg border border-slate-800 overflow-visible"
+<div
+  className="relative w-full max-w-[750px] h-auto md:h-[700px] bg-cover bg-center rounded-lg border border-slate-800 overflow-visible"
   style={{ backgroundImage: `url(${background})` }}
 >
+
 
       {localNodes.map((node) => {
         const baseSize = 24; // smaller node buttons
